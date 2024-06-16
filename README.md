@@ -11,4 +11,6 @@ Ainda é instável, pelo que é necessário colocar a imagem num diretório do p
 First commit of the project on GitHub. The bot is currently able to take any image in JPEG and PNG format (in PNG the image turns black in the "empty" area).
 It's still unstable, so you need to put the image in a directory on your computer and not in the project folder itself ("Example: C:\Users\User\Downloads\picasso_bot-main\bot pintor\menina.png" instead of "menina.png").
 
+# Notes (for English users)
 
+If you pretend to analyze the code itself, be aware that all the comments on the code explaining it's functions are in Portuguese.
