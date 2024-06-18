@@ -107,6 +107,8 @@ Depois, para finalmente executar o código, basta clicar em "Run Python File in 
 
 E agora o Excel deverá abrir e dentro de alguns segundos começar a renderizar a imagem.
 
+(**Para parar o código basta terminar o Excel**)
+
 # Notes (for English users)
 
 If you pretend to analyze the code itself, be aware that all the comments on the code explaining it's functions are in Portuguese.
