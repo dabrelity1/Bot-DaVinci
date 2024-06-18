@@ -17,7 +17,8 @@ Passo 1: Instalar Python:
 
 Para fazer a instalação de Python será necessário ir ao website oficial (python.org) e instalar a versão mais recente em "Downloads". Para realizar o download do instalador de Python (3.12.4) mais rapidamente, clique neste link: https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe (O link irá instalar o Python no diretório escolhido).
 
-Depois de executar o instalador, por favor selecione ambas as caixas: ![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/47f250a2-e902-4f6b-ab98-1f4672986754)
+Depois de executar o instalador, por favor selecione ambas as caixas e prosiga com a instalação: 
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/47f250a2-e902-4f6b-ab98-1f4672986754)
 
 # Notes (for English users)
 
