@@ -35,15 +35,13 @@ Após executar a linha de comandos, escreva esta síntaxe:
 
 *py -mpip install opencv-python*.
 
-**MANTENHA-SE NA LINHA DE COMANDOS DO SEU COMPUTADOR**
+**MANTENHA-SE NA LINHA DE COMANDOS DO SEU COMPUTADOR!!**
 
 ### XLWings:
 
 Para instalar o XLWings escreva:
 
 *py -mpip install xlwings*
-
-**MANTENHA-SE NA LINHA DE COMANDOS DO SEU COMPUTADOR**
 
 ### XLSXWriter:
 
@@ -60,6 +58,54 @@ Após chegar ao site, clique no botão "Download for Windows":
 
 ![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/70136bf9-7bce-47c8-b9ec-8d38da48029e)
 
+Após executar o instalador, pode prosseguir sempre (Clicar sempre em Seguinte) e siga para o passo seguinte.
+
+## Passo 4: Realizar o download do bot e executá-lo a partir do Visual Studio Code:
+
+Agora, faça download do código fonte do bot neste repositório e abra a pasta *Bot-DaVinci-main*.
+Após abrir a pasta, execute o ficheiro *davinci_bot.py* através do Visual Studio Code:
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/95d656d4-1feb-41cc-bd4f-1f0db0c5f1bd)
+
+Após abrir o Visual Studio Code através do ficheiro, permita que o Visual Studio Code abra ficheiros externos:
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/54218051-5f23-4ee8-851a-14c2eae38620)
+
+## Passo 5: Fazer o bot detectar a imagem:
+
+Deve ter reparado que na pasta *Bot-DaVinci-main* existe um ficheiro de imagem chamado *menina.png*. Se preferir, pode mudar por outro, mas neste exemplo vamos usar esse.
+
+Em todos os computadores, os diretórios são diferentes, ou seja, encontram-se em localizações distintas. Para resolver isto basta:
+
+1. Selecionar a imagem no Explorador de Ficheiros do Windows;
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/de8c2c35-428a-475c-a4b8-0289da147cc5)
+
+2. Clicar em "Base", no lado direito do botão azul "Ficheiro" no canto superior esquerdo.
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/5780c508-b5ed-4ffa-b6f3-c5389b98e2ee)
+
+3. Clicar em "Copiar caminho":
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/2f6fd934-171b-4ae3-b9c4-bb70d7a659ae)
+
+No meu caso, o diretório é "C:\Users\14475\Downloads\Bot-DaVinci-main\menina.png", mas é perfeitamente normal ser diferente em outros computadores.
+
+Agora, volte ao Visual Studio Code e, na linha 53 (V.0.1) elimine o 'C:\Users\User\Downloads\picasso_bot-main\bot pintor\menina.png' e substitua com o seu diretório (No meu caso seria 'C:\Users\14475\Downloads\Bot-DaVinci-main\menina.png'). Tenha em atenção remover as "", e substituir com '' no início e fim do diretório:
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/37de383e-e7e2-4e2d-987f-c6d4ee74e5e7)
+
+## Passo 6: Executar o código:
+
+Para executar o código, basta carregar com o **botão direito do rato** num espaço vazio (sem código) e clicar em "Run Python":
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/85b51841-f739-49fc-8fae-b5c3db63d200)
+
+Depois, para finalmente executar o código, basta clicar em "Run Python File in Terminal":
+
+![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/eec11255-0af8-42a5-9a38-91d50879d50f)
+
+E agora o Excel deverá abrir e dentro de alguns segundos começar a renderizar a imagem.
 
 # Notes (for English users)
 
