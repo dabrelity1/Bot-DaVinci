@@ -50,6 +50,6 @@ def imgparaexcel_xlwings(img, direction=None, x=1, y=1):
             sheet.cells(r + 1, c + 1).color = color_matrix[r][c]
 
 # Carregar a imagem
-img2 = cv2.imread(r'C:\Users\User\Downloads\picasso_bot-main\bot pintor\menina.png', cv2.IMREAD_COLOR)
+img2 = cv2.imread(r'C:\Users\User\Downloads\davincibot\bot pintor\menina.png', cv2.IMREAD_COLOR)
 # Aqui converteu-se a imagem em vertical
 imgparaexcel_xlwings(img2, direction='vertical', x=1, y=1)
