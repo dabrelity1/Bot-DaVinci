@@ -89,7 +89,7 @@ Em todos os computadores, os diretórios são diferentes, ou seja, encontram-se 
 
 ![image](https://github.com/dabrelity1/Bot-DaVinci/assets/147398154/2f6fd934-171b-4ae3-b9c4-bb70d7a659ae)
 
-No meu caso, o diretório é "C:\Users\14475\Downloads\Bot-DaVinci-main\menina.png", mas é perfeitamente normal ser diferente em outros computadores.
+No meu caso, o diretório é "C:\Users\14474\Downloads\Bot-DaVinci-main\menina.png", mas é perfeitamente normal ser diferente em outros computadores.
 
 Agora, volte ao Visual Studio Code e, na linha 53 (V.0.1) elimine o 'C:\Users\User\Downloads\picasso_bot-main\bot pintor\menina.png' e substitua com o seu diretório (No meu caso seria 'C:\Users\14475\Downloads\Bot-DaVinci-main\menina.png'). Tenha em atenção remover as "", e substituir com '' no início e fim do diretório:
 
